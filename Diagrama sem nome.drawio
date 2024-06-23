@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T00:23:20.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hFFw_ZX-tX4pI9DaL0gW" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T00:24:31.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qT6IKYrZ1Y_v7CJpmxoL" version="24.6.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2014" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Desenvolvimento de Software" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Desenvolvimento de Sistemas" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="19" y="40" width="790" height="410" as="geometry" />
         </mxCell>
         <UserObject label="&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" position="Gerente de Desenv. de Sistemas" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-12">
@@ -66,7 +66,7 @@
             <mxGeometry x="550" y="160" width="130" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="hPTWJLIcKo_zzPEU5Aye-19" value="Desenvolvimento de Software" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+        <mxCell id="hPTWJLIcKo_zzPEU5Aye-19" value="Desenvolvimento de Sistemas" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
           <mxGeometry x="19" y="670" width="790" height="250" as="geometry" />
         </mxCell>
         <UserObject label="&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" position="Gerente de Desenv. de Sistemas" placeholders="1" id="hPTWJLIcKo_zzPEU5Aye-20">
